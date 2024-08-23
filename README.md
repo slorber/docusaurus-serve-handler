@@ -1,5 +1,18 @@
 # serve-handler
 
+
+## Docusaurus Fork!
+
+The whole purpose of this fork is to get rid of the Node 21 punycode warning. 
+
+See:
+- https://github.com/facebook/docusaurus/issues/10107
+- https://github.com/vercel/serve-handler/issues/204
+
+Docusaurus maintainers don't plan to maintain it further.
+
+---
+
 [![Tests](https://github.com/vercel/serve-handler/actions/workflows/tests.yaml/badge.svg)](https://github.com/vercel/serve-handler/actions/workflows/tests.yaml)
 [![codecov](https://codecov.io/gh/vercel/serve-handler/branch/main/graph/badge.svg)](https://codecov.io/gh/vercel/serve-handler)
 [![install size](https://packagephobia.now.sh/badge?p=serve-handler)](https://packagephobia.now.sh/result?p=serve-handler)

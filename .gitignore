@@ -5,3 +5,5 @@ src/directory.js
 src/error.js
 .nyc_output
 coverage
+
+.idea
